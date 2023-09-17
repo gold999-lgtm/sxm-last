@@ -1,8 +1,7 @@
-dash
 pandas
 numpy
 matplotlip
 plotly
-webbrowser
+streamlit
 sqlite3
 
